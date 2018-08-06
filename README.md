@@ -9,3 +9,5 @@ A trivia game created using C# that comes with 10 pre-loaded questions and allow
 
 ![screenshot 2018-08-06 14 17 41](https://user-images.githubusercontent.com/40727213/43741752-4d9d1750-9984-11e8-8006-7dae938751e5.png)
 
+![screenshot 2018-08-06 14 17 49](https://user-images.githubusercontent.com/40727213/43741802-76e051f4-9984-11e8-8713-7827a975ffed.png)
+
